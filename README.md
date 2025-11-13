@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/abdo20384">
-    <img src="https://komarev.com/ghpvc/?username=abdo20384&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/>
-  </a>
-</p>
-
 ---
 
 #### `📤 Connect With Me`
@@ -56,6 +50,7 @@
   <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/><img width="12"/>
   <img src="https://skillicons.dev/icons?i=airflow" height="60"/><img width="12"/>
+  <!-- FIXED AWS ICON -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60"/><img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60"/><img width="12"/>
 
