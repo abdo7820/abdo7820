@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdurrahman Mohamed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Enthusiast;MLOps+Learner" alt="Typing SVG" />
 </p>
 
 <br>
@@ -27,10 +27,12 @@
   </a>
 </p>
 
+---
+
 #### `📤 Connect With Me`
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulrah-manmohamed-yousry/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
@@ -42,11 +44,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
-  <a href="https://www.facebook.com/YOUR_FACEBOOK" target="_blank">
+  <a href="https://www.facebook.com/abdo.mohamed.977997" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/abdo_magic__?igsh=YTZ2NzR2YjIxMmh5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
@@ -65,23 +67,30 @@
 #### `🛠️ Technical Skills`
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+
+  <!-- Row 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60"/><img width="12"/>
+
+  <!-- Row 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/><img width="12"/>
+  <img src="https://skillicons.dev/icons?i=airflow" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60"/><img width="12"/>
+
+  <!-- Row 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60"/><img width="12"/>
+
+  <!-- Row 4 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/><img width="12"/>
+  <img src="https://skillicons.dev/icons?i=cursor" height="60"/><img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mlops" height="60"/><img width="12"/>
+
 </div>
 
 ---
@@ -90,7 +99,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=abdo20384&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=abdo20384&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
 
   <br><br>
 
