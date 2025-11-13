@@ -65,8 +65,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"><img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60"><img width="10"/>
 
-  <!-- Row 4: MLOps Badge -->
-  <img src="https://img.shields.io/badge/MLOps-00A98F?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
+  <!-- Row 4: Blue MLOps Badge -->
+  <img src="https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" height="40"/>
 
   <!-- Row 5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"><img width="10"/>
