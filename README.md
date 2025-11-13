@@ -18,15 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="YOUR_CV_LINK">
-    <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a> &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a>
-</p>
-
 ---
 
 #### `📤 Connect With Me`
@@ -36,11 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
-  <a href="https://x.com/YOUR_X" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:abdelmen782@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
@@ -50,14 +37,6 @@
 
   <a href="https://www.instagram.com/abdo_magic__?igsh=YTZ2NzR2YjIxMmh5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
 </div>
@@ -89,7 +68,6 @@
   <!-- Row 4 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/><img width="12"/>
   <img src="https://skillicons.dev/icons?i=cursor" height="60"/><img width="12"/>
-  <img src="https://skillicons.dev/icons?i=mlops" height="60"/><img width="12"/>
 
 </div>
 
