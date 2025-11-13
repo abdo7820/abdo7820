@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdurrahman Mohamed</h1>
+<h1 align="center">Hi, I'm Abdulrahman Mohamed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Enthusiast;MLOps+Learner" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.google.com.eg/search?q=abdurrahman+mohamed+ai">
+  <a href="https://www.google.com.eg/search?q=abdulrahman+mohamed+ai">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20for%20More%20AI%20Projects;Explore%20My%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
@@ -72,25 +72,3 @@
 </div>
 
 ---
-
-#### 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=abdo20384&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdo20384&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-
-  <img src="https://streak-stats.demolab.com/?user=abdo20384&theme=highcontrast" height="125"/>
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdo20384/abdo20384/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdo20384/abdo20384/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdo20384/abdo20384/output/pacman-contribution-graph.svg">
-  </picture>
-
-</div>
