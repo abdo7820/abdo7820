@@ -1,73 +1,109 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="sklearn logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-</div>
-
-###
-
-<h3 align="center">Machine Learning • Deep Learning • Computer Vision</h3>
+<h1 align="center">Hi, I'm Abdurrahman Mohamed</h1>
 
 <p align="center">
-أنا عبد الرحمن محمد، طالب في كلية <b>Menoufia National University</b>.<br>
-خلصت مساري في Machine Learning و Deep Learning و Computer Vision وبشتغل على مشاريع بتجمع بين الذكاء الاصطناعي و الـDeployment.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Enthusiast" alt="Typing SVG" />
 </p>
 
-###
+<br>
 
+<p align="center">
+  <a href="https://www.google.com.eg/search?q=abdurrahman+mohamed+ai">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20for%20More%20AI%20Projects;Explore%20My%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abdo20384">
+    <img src="https://komarev.com/ghpvc/?username=abdo20384&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_CV_LINK">
+    <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/>
+  </a> &nbsp;
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/>
+  </a>
+</p>
+
+#### `📤 Connect With Me`
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&color=20BEFF&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" />
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+  <a href="https://x.com/YOUR_X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_FACEBOOK" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+  <a href="https://www.youtube.com/@YOUR_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
 </div>
 
-###
+---
+
+#### `🛠️ Technical Skills`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_GITHUB_USERNAME&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
-### 🧠 Skills & Focus
-- Machine Learning (Regression – Classification – Clustering)
-- Deep Learning (CNN, RNN, LSTM, Transformers)
-- Computer Vision (Image Processing, CNN models, Object Detection)
-- Data Preprocessing, Feature Engineering
-- Model Deployment (Flask – FastAPI – Docker – AWS)
+#### 🏆 GitHub Trophies
 
----
+<div align="center">
 
-### 🚀 Projects
-- **Face Mask Detection using CNN**
-- **Handwritten Digit Recognition – MNIST**
-- **Image Classification with Transfer Learning**
-- **Real-time Object Detection – YOLO**
-- (ضيف لي قائمة مشاريعك لو عايز أكتبها بشكل احترافي)
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=abdo20384&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" />
 
----
+  <br><br>
 
-### 💬 لو عايز أضيف Bio، شهادات، Projects، أو Portfolio… قولّي وأنا أعملها لك جاهزة 🔥
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdo20384&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+
+  <img src="https://streak-stats.demolab.com/?user=abdo20384&theme=highcontrast" height="125"/>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdo20384/abdo20384/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdo20384/abdo20384/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdo20384/abdo20384/output/pacman-contribution-graph.svg">
+  </picture>
+
+</div>
